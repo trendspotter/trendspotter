@@ -1,10 +1,10 @@
-## Hi there 👋
 
 - More about my efforts see on my site https://spotter.ngo
 - 🤔 I’m looking for help with **Decidim module for Czech autentification**
 - 🔭 I’m currently working on OSM mapping https://www.openstreetmap.org/user/Jiri%20Podhorecky
 
 <!--
+## Hi there 👋
 **trendspotter/trendspotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
