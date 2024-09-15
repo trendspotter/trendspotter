@@ -1,6 +1,6 @@
 
 - More about my efforts see on my site https://spotter.ngo
-- 🤔 I’m looking for help with **Decidim module for Czech autentification**
+- 🤔 I’m looking for help with **Decidim module for Czech authorization** https://docs.decidim.org/en/develop/customize/authorizations.html
 - 🔭 I’m currently working on OSM mapping https://www.openstreetmap.org/user/Jiri%20Podhorecky
 
 <!--
