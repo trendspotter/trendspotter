@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=trendspotter&theme=juicyfresh&no-bg=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trendspotter&show_icons=true&locale=en&layout=compact" alt="ovi" />
+
+My focus: 
+- [Open Sustainable Technology](https://ost.ecosyste.ms)
+- [Digital Public Goods Alliance](https://www.digitalpublicgoods.net)
+- [Digital Impact Exchange](https://exchange.dial.global/products)
