@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - [Open Sustainable Technology](https://ost.ecosyste.ms)
--->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trendspotter" alt="mystreak"/>
+![Profile views](https://gpvc.arturio.dev/trendspotter)
+-->
+
+![trendspotter's GitHub stats](https://github-readme-stats.vercel.app/api?username=trendspotter&show_icons=true&theme=radical)
 
 [![](https://ossrank.com/widget/459900)](https://ossrank.com/c/459900)
 [![](https://ossrank.com/widget/443868)](https://ossrank.com/c/443868)
