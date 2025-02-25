@@ -1,7 +1,5 @@
 
-- More about my efforts see on my site https://spotter.ngo
-- 🤔 I’m looking for help with **Decidim module for Czech authorization** https://docs.decidim.org/en/develop/customize/authorizations.html
-- 🔭 I’m currently working on OSM mapping https://www.openstreetmap.org/user/Jiri%20Podhorecky
+
 
 <!--
 ## Hi there 👋
@@ -9,6 +7,8 @@
 
 Here are some ideas to get you started:
 
+- 🤔 I’m looking for help with **Decidim module for Czech authorization** https://docs.decidim.org/en/develop/customize/authorizations.html
+- 🔭 I’m currently working on OSM mapping https://www.openstreetmap.org/user/Jiri%20Podhorecky
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/trendspotter)
 -->
 
-![trendspotter's GitHub stats](https://github-readme-stats.vercel.app/api?username=trendspotter&show_icons=true&theme=radical)
+![trendspotter's GitHub stats](https://github-readme-stats.vercel.app/api?username=trendspotter&show_icons=true)
 
 [![](https://ossrank.com/widget/459900)](https://ossrank.com/c/459900)
 [![](https://ossrank.com/widget/443868)](https://ossrank.com/c/443868)
