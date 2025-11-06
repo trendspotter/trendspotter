@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 ![trendspotter's GitHub stats](https://github-readme-stats.vercel.app/api?username=trendspotter&show_icons=true)
 
-[![OSSRank](https://ossrank.com/widget/459900)](https://ossrank.com/c/459900-jiri-podhorecky)
-
 <img src="https://github-profile-trophy.vercel.app/?username=trendspotter&theme=juicyfresh&no-bg=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trendspotter&show_icons=true&locale=en&layout=compact" alt="ovi" />
 
